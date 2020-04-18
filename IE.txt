@@ -1,0 +1,29 @@
+<html data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+
+html[data-useragent*='MSIE 10.0'] button {
+            background-color: blue;
+    }
+    
+^11 and 10 version hamar
+
+_______________________________________________________________________________________
+
+<!--[if IE]><html class="ie"><![endif]-->    
+
+.ie button{
+     background-color: black;
+}     
+                                
+^9_eror from versioa cacrneri hamar                                               
+_______________________________________________________________________________________
+
+
+<!--[if IE 9]><html class="ie9"><![endif]-->
+
+.ie9 button{
+     background-color: black;
+}
+
+^baci 10_ic and 11_ic bolor versionneri hamar karox enq grel
+_______________________________________________________________________________________
+
